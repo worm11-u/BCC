@@ -1,2 +1,3 @@
 # BCC
-test
+What a nice day
+:musical_note:
